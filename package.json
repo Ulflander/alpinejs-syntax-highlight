@@ -1,7 +1,7 @@
 {
-  	"name": "alpinejs-syntax-highlight",
+  	"name": "alpinejs-syntax-highlight-2025",
 	"displayName": "Alpine.js Syntax Highlight",
-	"description": "Javascript syntax highlighting for Alpine.js x- attributes",
+	"description": "Javascript syntax highlighting for Alpine.js x- attributes w/ tsx support",
 	"author": "Greg Ransons",
 	"license": "MIT",
 	"version": "1.0.1",
@@ -9,7 +9,7 @@
 	"publisher": "sperovita",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Sperovita/alpinejs-syntax-highlight.git"
+		"url": "https://github.com/Ulflander/alpinejs-syntax-highlight"
 	},
 	"keywords": [
 		"alpine",
@@ -37,7 +37,7 @@
 					"text.html.derivative", 
 					"text.html.php", 
 					"text.html.twig",
-					"typescriptreact"
+            		"source.tsx"
 				],
 				"embeddedLanguages": {
 					"meta.embedded.inline.alpinejs": "javascript"
