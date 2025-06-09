@@ -4,7 +4,7 @@
         "L:text.html.derivative",
         "L:text.html.php",
         "L:text.html.twig",
-        "L:source.tsx"
+        "L:source.tsx#meta.tag.tsx"
     ],
     "patterns": [
         {
